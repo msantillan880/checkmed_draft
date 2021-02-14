@@ -1,0 +1,34 @@
+{
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Camila Reyes",
+      "curso": "Javascript",
+      "turno": "Mañana"
+    },
+    {
+      "id": 2,
+      "nombre": "Manolo Blanc",
+      "curso": "Java",
+      "turno": "Tarde"
+    },
+    {
+      "id": 3,
+      "nombre": "Jaqueline Foulet",
+      "curso": "Javascript elementary",
+      "turno": "Tarde"
+    },
+    {
+      "id": 4,
+      "nombre": "Guido Gucci",
+      "curso": "Javascript Ninja",
+      "turno": "Tarde"
+    },
+    {
+      "id": 5,
+      "nombre": "Oscar De La Renta",
+      "curso": "Javascript advanced",
+      "turno": "Tarde"
+    }
+  ]
+}
